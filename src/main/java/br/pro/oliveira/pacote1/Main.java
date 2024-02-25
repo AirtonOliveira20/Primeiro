@@ -11,7 +11,7 @@ public class Main {
         estoque.adicionarProduto(new Produto("Computador", 100, "85-7542-239-1"));
         estoque.adicionarProduto(new Produto("TV", 154, "9788595080805"));
 
-        System.out.println("Todos os produtos:");
+        System.out.println("Todos os produtos no estoque:");
         for (Produto produto : estoque.listarProdutos()) {
             System.out.println(produto);
         }
