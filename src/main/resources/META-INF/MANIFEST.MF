@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: br.pro.oliveira.pacote1.Main
+
